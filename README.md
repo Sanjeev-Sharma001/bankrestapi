@@ -1,5 +1,6 @@
 # bankrestapi
 
+  I have choosen to build the REST API 
   I have created 2 routes one is to get list of all banks and other one is to get details
   I used flask framework and SQLite3 for quering the data from the database
 
